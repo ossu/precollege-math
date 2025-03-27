@@ -85,18 +85,18 @@ You can read more about our curricular guidelines and the qualifications of the 
 
 The curriculum assumes that you are reasonably fluent in English, and some basic numeracy and arithmetics. Without these assumptions, the curriculum would be out of control with trying to fill in your knowledge gaps. For those who want to study basic numeracy and arithmetics, here is a list of youtube playlists:
 
-1. Numeracy: https://www.youtube.com/watch?v=T5Qf0qSSJFI&list=PLUPEBWbAHUsyCN6LDA7DnsJGNVN2ZqyIW&pp=iAQB&ab_channel=mathantics
-2. Arithmetic Operations: https://www.youtube.com/watch?v=IwW0GJWKH98&list=PLUPEBWbAHUszlEY-eg87xOFzCy_AIDSsb&ab_channel=mathantics
-3. Multiplicaiton: https://www.youtube.com/watch?v=mAvuom42NyY&list=PLUPEBWbAHUsyWPSVe00-_KD8dGqGKGVds&ab_channel=mathantics
-4. Division: https://www.youtube.com/watch?v=KGMf314LUc0&list=PLUPEBWbAHUsyr3L9ntfZsChs6AELJaGCG&ab_channel=mathantics
-5. Factors: https://www.youtube.com/watch?v=CA9XLJpQp3c&list=PLUPEBWbAHUsyJkm0CwwrOdOTpT0avzW9w&ab_channel=mathantics
-6. Arithmetic Operations on Fractions: https://www.youtube.com/watch?v=qmfXyR7Z6Lk&list=PLUPEBWbAHUszeG-AhgtaRybo0ylguyk6_&ab_channel=mathantics
-7. Mixed Numbers: https://www.youtube.com/watch?v=qk2oP6FZ6HA&list=PLUPEBWbAHUsxPsXMkoQIc5tnZImoskqmZ
-8. Geometry Part 1: https://www.youtube.com/watch?v=k5etrWdIY6o&list=PLUPEBWbAHUsxuIbsAS--B6cobarm2bty2
-9. Geometry Part 2: https://www.youtube.com/watch?v=AAY1bsazcgM&list=PLUPEBWbAHUsyDKTIYm4a_hUTgJqwI9q5C&ab_channel=mathantics
-10. Units of Measurement: https://www.youtube.com/watch?v=ZNX-a-5jGeM&list=PLUPEBWbAHUswRTOziaJfDXcYPcrxE07aH&ab_channel=mathantics
-11. Integer Arithmetic: https://www.youtube.com/watch?v=OAoLCXpao6s&list=PLUPEBWbAHUszGTzPZNvOjc_qp-3rY4X6i&ab_channel=mathantics
-12. Exponents: https://www.youtube.com/watch?v=-zUmvpkhvW8&list=PLUPEBWbAHUswvQ--TnOvvtmzgjb1ey0lA&ab_channel=mathantics
+1. Numeracy: <https://www.youtube.com/watch?v=T5Qf0qSSJFI&list=PLUPEBWbAHUsyCN6LDA7DnsJGNVN2ZqyIW&pp=iAQB&ab_channel=mathantics>
+2. Arithmetic Operations: <https://www.youtube.com/watch?v=IwW0GJWKH98&list=PLUPEBWbAHUszlEY-eg87xOFzCy_AIDSsb&ab_channel=mathantics>
+3. Multiplicaiton: <https://www.youtube.com/watch?v=mAvuom42NyY&list=PLUPEBWbAHUsyWPSVe00-_KD8dGqGKGVds&ab_channel=mathantics>
+4. Division: <https://www.youtube.com/watch?v=KGMf314LUc0&list=PLUPEBWbAHUsyr3L9ntfZsChs6AELJaGCG&ab_channel=mathantics>
+5. Factors: <https://www.youtube.com/watch?v=CA9XLJpQp3c&list=PLUPEBWbAHUsyJkm0CwwrOdOTpT0avzW9w&ab_channel=mathantics>
+6. Arithmetic Operations on Fractions: <https://www.youtube.com/watch?v=qmfXyR7Z6Lk&list=PLUPEBWbAHUszeG-AhgtaRybo0ylguyk6_&ab_channel=mathantics>
+7. Mixed Numbers: <https://www.youtube.com/watch?v=qk2oP6FZ6HA&list=PLUPEBWbAHUsxPsXMkoQIc5tnZImoskqmZ>
+8. Geometry Part 1: <https://www.youtube.com/watch?v=k5etrWdIY6o&list=PLUPEBWbAHUsxuIbsAS--B6cobarm2bty2>
+9. Geometry Part 2: <https://www.youtube.com/watch?v=AAY1bsazcgM&list=PLUPEBWbAHUsyDKTIYm4a_hUTgJqwI9q5C&ab_channel=mathantics>
+10. Units of Measurement: <https://www.youtube.com/watch?v=ZNX-a-5jGeM&list=PLUPEBWbAHUswRTOziaJfDXcYPcrxE07aH&ab_channel=mathantics>
+11. Integer Arithmetic: <https://www.youtube.com/watch?v=OAoLCXpao6s&list=PLUPEBWbAHUszGTzPZNvOjc_qp-3rY4X6i&ab_channel=mathantics>
+12. Exponents: <https://www.youtube.com/watch?v=-zUmvpkhvW8&list=PLUPEBWbAHUswvQ--TnOvvtmzgjb1ey0lA&ab_channel=mathantics>
 
 ### How can I find a course on a particular subject?
 For MOOCs an excellent resource is [Class Central](https://www.classcentral.com/).

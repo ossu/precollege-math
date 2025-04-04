@@ -58,18 +58,18 @@ just remember that you can't purchase success!
 # Curriculum
 
 Many OSSU students choose to review math topics that they have not studied recently.
-OSSU recommends using The College Prep School for such a review.
+OSSU recommends using [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486/playlists) for such a review.
 To determine where you should start, we recommend scanning through the Final Tests for anything you may be uncomfortable with. After taking an assessment, you should have a clear idea of what topics to study and where you should start with the resources below.
 
 Courses | Duration | Effort | Prerequisites | Assessments
 :-- | :--: | :--: | :--: | :--:
-[Arithmetic](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ) | 20 Weeks | 8 Hours/Week | None | [Final Test](https://www.youtube.com/watch?v=Af-MqCJGZww&list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&index=39&pp=iAQB0gcJCTgDd0p55Nqk)
-[Pre-Algebra](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l) | 14 Weeks | 6 Hours/Week | Arithmetic | [Final Test](https://www.youtube.com/watch?v=tz0VX_QfFxI&list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l&index=27&pp=iAQB)
-[Algebra 1](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8) | 19 Weeks | 8 Hours/Week | Pre-Algebra | [Final Test Part 1](https://www.youtube.com/watch?v=-RA5vtfH-qY&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=35&t=369s&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=lx0sDd0efSo&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=37&pp=iAQB)
-[Geometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw) | 25 Weeks | 8 Hours/Week | Algebra 1 | [Final Test Part 1](https://www.youtube.com/watch?v=84e6AVgYYNk&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=47&t=2s&pp=iAQB), [Part 2](https://www.youtube.com/watch?v=3Aaahyp1Lh8&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=49&pp=iAQB0gcJCTgDd0p55Nqk)
-[Algebra 2](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ) | 28 Weeks | 8 Hours/Week | Algebra 1, Geometry | [Final Test](https://www.youtube.com/watch?v=IQYKm-0KaOE&list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ&index=55&pp=iAQB)
-[Trigonometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc) | 18 Weeks | 8 Hours/Week | Algebra 2 | [Final Test](https://www.youtube.com/watch?v=2vNzGXrgbdQ&list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc&index=35&pp=iAQB)
-[Precalculus](https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_) | 24 Weeks | 9 Hours/Week | Trigonometry | [Final Test Part 1](https://www.youtube.com/watch?v=OY63IBm5RpI&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=45&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=aY7qINRAOvU&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=47&pp=iAQB)
+[Arithmetic](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ) | 20 Weeks | 8 hours/week | None | [Final Test](https://www.youtube.com/watch?v=Af-MqCJGZww&list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&index=39&pp=iAQB0gcJCTgDd0p55Nqk)
+[Pre-Algebra](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l) | 14 Weeks | 6 hours/week | Arithmetic | [Final Test](https://www.youtube.com/watch?v=tz0VX_QfFxI&list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l&index=27&pp=iAQB)
+[Algebra 1](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8) | 19 Weeks | 8 hours/week | Pre-Algebra | [Final Test Part 1](https://www.youtube.com/watch?v=-RA5vtfH-qY&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=35&t=369s&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=lx0sDd0efSo&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=37&pp=iAQB)
+[Geometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw) | 25 Weeks | 8 hours/week | Algebra 1 | [Final Test Part 1](https://www.youtube.com/watch?v=84e6AVgYYNk&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=47&t=2s&pp=iAQB), [Part 2](https://www.youtube.com/watch?v=3Aaahyp1Lh8&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=49&pp=iAQB0gcJCTgDd0p55Nqk)
+[Algebra 2](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ) | 28 Weeks | 8 hours/week | Algebra 1, Geometry | [Final Test](https://www.youtube.com/watch?v=IQYKm-0KaOE&list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ&index=55&pp=iAQB)
+[Trigonometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc) | 18 Weeks | 8 hours/week | Algebra 2 | [Final Test](https://www.youtube.com/watch?v=2vNzGXrgbdQ&list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc&index=35&pp=iAQB)
+[Precalculus](https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_) | 24 Weeks | 9 hours/week | Trigonometry | [Final Test Part 1](https://www.youtube.com/watch?v=OY63IBm5RpI&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=45&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=aY7qINRAOvU&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=47&pp=iAQB)
 
 
 When watching the lectures it is important that you pause before each question and work it out yourself, or try again after you understand the process.
@@ -83,7 +83,7 @@ After completing the requirements of the curriculum above,
 you have completed all the prerequisite math necessary to begin a bachelor's degree.
 Congratulations!
 
-What is next for you? You can start with the OSSU [Computer Science](https://cs.ossu.dev) or [Data Science](https://ds.ossu.dev) curriculum.
+What is next for you? You can start with the OSSU [Computer Science](https://cs.ossu.dev), [Data Science](https://ds.ossu.dev), or [Math](https://math.ossu.dev/) curriculum.
 
 ![keep learning](images/keep-learning.webp)
 

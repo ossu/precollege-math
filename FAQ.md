@@ -42,7 +42,7 @@ Some may find using a textbook to supplement their learning useful. However, usi
 
 #### What book do I use?
 
-Check out extras/readings for a list of textbooks you can use to aid your studies.
+Check out [extras/readings](/extras/readings.md) for a list of textbooks you can use to aid your studies.
 
 #### Where can I find answers to the questions in the textbook?
 
@@ -79,7 +79,7 @@ You can read more about our curricular guidelines and the qualifications of the 
 It is very common to find lessons for single math topics on the internet.
 It is rarer to find an entire course that covers all the math topics.
 If you are looking for a resource that goes more in depth into a topic you are struggling with, we recommend searching [Google](https://www.google.com/) or [YouTube](https://www.youtube.com/) for that topic.
-[r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/) has a list of resources that you may find useful. Also, be sure to check out extras/courses and extras/readings!
+[r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/) has a list of resources that you may find useful. Also, be sure to check out [extras/courses](/extras/courses.md) and [extras/readings](/extras/readings.md)!
 
 ### Why not Khan Academy, Professor Leonard, and/or `insert favorite resource here`?
 

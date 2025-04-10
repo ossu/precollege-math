@@ -12,4 +12,4 @@ Name | Author(s)
 [Prealgebra](https://openstax.org/details/books/prealgebra-2e) | OpenStax
 [Elementary Algebra](https://openstax.org/details/books/elementary-algebra-2e) | OpenStax
 [Intermediate Algebra](https://openstax.org/details/books/intermediate-algebra-2e) | OpenStax
-[Precalculus] | OpenStax
+[Precalculus](https://openstax.org/details/books/precalculus-2e) | OpenStax

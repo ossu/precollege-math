@@ -98,4 +98,9 @@ What is next for you? You can start with the OSSU [Computer Science](https://cs.
 
 # Team
 
+* [Waciuma Wanjohi](https://github.com/waciumawanjohi)
+* [Zach Meyer](https://github.com/zachmmeyer)
+* [Bradley Grant](https://github.com/bradleygrant)
+* [Pulkit Krishna](https://github.com/pulkitkrishna00)
+* [Flomza](https://github.com/Flomza)
 * **[Contributors](https://github.com/ossu/precollege-math/graphs/contributors)**

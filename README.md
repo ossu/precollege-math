@@ -34,6 +34,8 @@ The courses are specifically chosen to meet the following criteria.
 - Be of generally high quality in teaching materials and pedagogical principles
 - Match the [curricular standards](CURRICULAR_GUIDELINES.md)
 
+When there are courses or books that don’t fit into the curriculum but are otherwise of high quality, they belong in [extras/courses](/extras/courses.md) or [extras/readings](/extras/readings.md).
+
 **Cost**. All or nearly all course material is available for free. However, some extra courses may charge money for assignments/tests/projects to be graded.
 Note that both [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) and [edX](https://courses.edx.org/financial-assistance/) offer financial aid.
 

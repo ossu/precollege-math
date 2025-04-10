@@ -34,4 +34,4 @@ This course was created by [The College Prep School](https://www.youtube.com/@th
 
 ## Notes:
 
-- Class 4, questions 47-59: For factoring equations such as $$Ax^2 + Bx + C$$ where $A \neq 1$, an easier method for solving these problems is the X method(AKA the diamond method), as seen in [this clip](https://youtu.be/u2CFHYJWS60?t=1590) from Professor Leonard.
+- Class 4, questions 47-59: An easier method for factoring equations where the leading coefficient is not 1 is the X method(AKA the diamond method), as seen in [this clip](https://youtu.be/u2CFHYJWS60?t=1590) from Professor Leonard.

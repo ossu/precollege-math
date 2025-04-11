@@ -46,11 +46,11 @@ Check out [extras/readings](/extras/readings.md) for a list of textbooks you can
 
 #### Where can I find answers to the questions in the textbook?
 
-While this differs by textbook, they can usually be found at the end of the textbook or end of the chapter. If you have a digital textbook(i.e. OpenStax), you may be able to click the question number to take you to the answer.
+While this differs by textbook, they can usually be found at the end of the textbook or end of the chapter. If you have a digital textbook (for example, the OpenStax books), you may be able to click the question number to take you to the answer.
 
 #### Why is there only the answer of half the questions given?
 
-Many textbooks add extra questions without answers given so that teachers have questions they can assign as homework without students cheating. Often, the textbook publishers sell a separate book that contains the answers to *all* of the problems, but this is not necessary if you are self-studying. The given questions with answers should be enough.
+Many textbooks add extra questions without answers given so that teachers have questions they can assign as homework without students cheating. Often, the textbook publishers sell a separate book that contains the answers to *all* of the problems, but this is not necessary if you are self-studying. The questions with answers given should be enough.
 
 ### Do I need a calculator?
 
@@ -58,7 +58,7 @@ You should not use a calculator until you get past Arithmetic. Even then, you ca
 
 ### How many practice problems should I do?
 
-The College Prep School has more than enough practice problems. Do every problem he tells you to try during class and do all of the homework. A few of the problems he covers during class you don't have to do yourself because he uses them to demonstrate how to solve the problem, but if you want you can complete them for extra practice. If you feel uncomfortable with a particular subject, try checking out a textbook as they contain thousands of practice problems.
+The College Prep School has more than enough practice problems. Do every problem that you are asked to try during class and do all of the homework. You don't have to do a few of the problems covered during class yourself because they are only used them to demonstrate how to solve the problem, but if you want you can complete them for extra practice. If you feel uncomfortable with a particular subject, try checking out a textbook as they contain thousands of practice problems.
 
 ### Does every resource in the main curriculum have to be free?
 
@@ -83,4 +83,4 @@ If you are looking for a resource that goes more in depth into a topic you are s
 
 ### Why not Khan Academy, Professor Leonard, and/or `insert favorite resource here`?
 
-The College Prep School was chosen because it meets the needs of a rigorous curriculum that covers all of the topics needed before entering college. It also has all of the homework and tests built in to the curriculum, which makes it easier to follow. Khan Academy was not chosen because many consider it to not have challenging problems and/or enough problems and/or promotes passively watching math videos. Professor Leonard was not chosen because he does not cover Geometry nor does he assign homework. The coursepages have tips that have been contributed over time to improve the curriculum. If you feel like you have found a better resource or method than The College Prep School, feel free to open an issue.
+The College Prep School was chosen because it meets the needs of a rigorous curriculum that covers all of the topics needed before entering college. It also has all of the homework and tests built in to the curriculum, which makes it easier to follow. Khan Academy was not chosen because many consider it to not have challenging problems and/or enough problems and/or promotes passively watching math videos. Professor Leonard was not chosen because it is not a complete expirience in itself, he does not assign homework, and other resources are required to have a complete expirience. The coursepages have tips that have been contributed over time to improve the curriculum. If you feel like you have found a better resource or method than The College Prep School, feel free to open an issue.

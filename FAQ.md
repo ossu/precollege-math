@@ -38,7 +38,7 @@ Each course has a prerequisite of the previous course, so you should take the co
 
 ### Do I need a textbook?
 
-Some may find using a textbook to supplement their learning useful. However, using a textbook to help your studies is optional. However, we have prepared the following questions in case you do decide to use one.
+Some may find using a textbook to supplement their learning useful. However, using a textbook to help your studies is optional. In case you do want to use a textbook, we have prepared the following questions.
 
 #### What book do I use?
 

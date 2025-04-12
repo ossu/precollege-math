@@ -23,6 +23,7 @@
 This course is a mix between [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486) and [Greene Math](https://greenemath.com/). Most of this course is contained in the following YouTube playlist, including your homework and tests. After completing the playlist you'll need to complete every topic on Greene Math under the [Matrices](https://greenemath.com/Precalculus.html#matrices-determinants) and [Vectors](https://greenemath.com/Precalculus.html#vectors) section. This class is also known as Math Analysis.
 
 **Course Playlist:** <https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_>
+
 **Basic Linear Algebra:**
 1. <https://greenemath.com/Precalculus.html#matrices-determinants>
 2. <https://greenemath.com/Precalculus.html#vectors>

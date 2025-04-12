@@ -20,10 +20,12 @@
 `determinants`
 `and more`
 
-This course is a mix between [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486) and [Greene Math](https://greenemath.com/). Most of this course is contained in the following YouTube playlist, including your homework and tests. After completing the playlist you'll need to complete every topic on Greene Math under the [Matrices](https://greenemath.com/Precalculus.html#matrices-determinants) section. This class is also known as Math Analysis.
+This course is a mix between [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486) and [Greene Math](https://greenemath.com/). Most of this course is contained in the following YouTube playlist, including your homework and tests. After completing the playlist you'll need to complete every topic on Greene Math under the [Matrices](https://greenemath.com/Precalculus.html#matrices-determinants) and [Vectors](https://greenemath.com/Precalculus.html#vectors) section. This class is also known as Math Analysis.
 
 **Course Playlist:** <https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_>
-**Basic Linear Algebra:** <https://greenemath.com/Precalculus.html#matrices-determinants>
+**Basic Linear Algebra:**
+1. <https://greenemath.com/Precalculus.html#matrices-determinants>
+2. <https://greenemath.com/Precalculus.html#vectors>
 
 ## Instructions:
 
@@ -34,4 +36,4 @@ This course is a mix between [The College Prep School](https://www.youtube.com/@
 - When you get to a review day, attempt every problem yourself then complete the homework.
 - Take the tests seriously and don't cheat. Use them as a measure to see where your knowlege is at. Do not move on without feeling proficient at a topic.
 - You may find a calculator useful for this course. [Desmos](https://www.desmos.com/calculator) is a good free graphing calculator.
-- When you get to Basic Linear Algebra, complete everything under the [Matrices](https://greenemath.com/Precalculus.html#matrices-determinants) section on [Greene Math](https://greenemath.com/). That includes all the readings, videos, practice exams, and unit tests in each topic. When you're finished, you are done with Pre-College Math. Congratulations!
+- When you get to Basic Linear Algebra, complete everything under the [Matrices](https://greenemath.com/Precalculus.html#matrices-determinants) and [Vectors](https://greenemath.com/Precalculus.html#vectors) section on [Greene Math](https://greenemath.com/). That includes all the readings, videos, practice exams, and unit tests in each topic. When you're finished, you are done with Pre-College Math. Congratulations!

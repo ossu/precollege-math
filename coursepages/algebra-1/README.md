@@ -34,4 +34,5 @@ This course was created by [The College Prep School](https://www.youtube.com/@th
 
 ## Notes:
 
-- Class 4, questions 47-59: An easier method for factoring equations where the leading coefficient is not 1 is the X method(AKA the diamond method), as seen in [this clip](https://youtu.be/u2CFHYJWS60?t=1590) from Professor Leonard.
+- [Class 3 - Multiplying Binomials](https://youtu.be/T9MA2t3dP_w): FOIL (First, Inner, Outer, Last) is a commonly taught method for multiplying 2 binomials together. However, it is important to understand the math that goes on behind FOIL. FOIL is just using the distributive property to multiply the monomials within the first binomial by the second binomial. See [this video](https://youtu.be/PQ2W_0r4t2s) from Wrath of Math for more details.
+- [Class 4 - Factoring Algebraic Expressions Part 1](https://youtu.be/YOT7LMiyFDs&t=2410) (questions 47-59): An easier method for factoring equations where the leading coefficient is not 1 is the X method(AKA the diamond method), as seen in [this clip](https://youtu.be/u2CFHYJWS60?t=1590) from Professor Leonard.

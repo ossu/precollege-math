@@ -19,6 +19,7 @@ Alternatively, you could [contribute](CONTRIBUTING.md) an answer yourself.
 - [How many practice problems should I do?](#how-many-practice-problems-should-i-do)
 - [Does every resource in the main curriculum have to be free?](#does-every-resource-in-the-main-curriculum-have-to-be-free)
 - [Why doesn't the curriculum cover/ignore topic X?](#why-doesnt-the-curriculum-coverignore-topic-x)
+- [Is Geometry necessary for Calculus or Computer Science?](#is-geometry-necessary-for-calculus-or-computer-science)
 - [How can I find a lesson on a particular topic?](#how-can-i-find-a-lesson-on-a-particular-topic)
 - [Why not Khan Academy, Professor Leonard, and/or `insert favorite resource here`?](#why-not-khan-academy-professor-leonard-andor-insert-favorite-resource-here)
 
@@ -74,6 +75,10 @@ It would be ideal if graded assignments were always free. In the event that free
 
 You can read more about our curricular guidelines and the qualifications of the guidelines' authors [here](CURRICULAR_GUIDELINES.md). If you find a topic that is required by our guidelines and is not included in the curriculum, we should make a change! Read more about [contributing to a change](CONTRIBUTING.md).
 
+### Is Geometry necessary for Calculus or Computer Science?
+
+Yes. Geometry is a major prerequisite to Trigonometry, which in turn is used thoughout Calculus. Also, some of the basic proofs taught in Geometry serve as a gentle introduction to mathematical thinking, which can be helpful for later programming and math courses.
+
 ### How can I find a lesson on a particular topic?
 
 It is very common to find lessons for single math topics on the internet.
@@ -83,4 +88,4 @@ If you are looking for a resource that goes more in depth into a topic you are s
 
 ### Why not Khan Academy, Professor Leonard, and/or `insert favorite resource here`?
 
-The College Prep School was chosen because it meets the needs of a rigorous curriculum that covers all of the topics needed before entering college. It also has all of the homework and tests built in to the curriculum, which makes it easier to follow. Khan Academy was not chosen because many consider it to not have challenging problems and/or enough problems and/or promotes passively watching math videos. Professor Leonard was not chosen because it is a lecture series without integrated homework or tests, whereas other resources contain these materials. The coursepages have tips that have been contributed over time to improve the curriculum. If you feel like you have found a better resource or method than The College Prep School, feel free to open an issue.
+The College Prep School was chosen because it meets the needs of a rigorous curriculum that covers all of the topics needed before entering college. It also has all of the homework and tests built in to the curriculum, which makes it easier to follow. Khan Academy was not chosen because many consider it to not have challenging problems and/or enough problems and/or promotes passively watching math videos. Professor Leonard was not chosen because it is a lecture series without integrated homework or tests, whereas other resources contain these materials. For more info regarding these choices, see [Issue 5](https://github.com/ossu/precollege-math/issues/5). The coursepages have tips that have been contributed over time to improve the curriculum. If you feel like you have found a better resource or method than The College Prep School, feel free to open an issue.

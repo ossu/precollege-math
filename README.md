@@ -70,14 +70,14 @@ Courses | Duration | Effort | Prerequisites | Assessments
 [Algebra 1](/coursepages/algebra-1/README.md) | 19 Weeks | 8 hours/week | Pre-Algebra | [Final Test Part 1](https://www.youtube.com/watch?v=-RA5vtfH-qY&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=35&t=369s&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=lx0sDd0efSo&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=37&pp=iAQB)
 [Geometry](/coursepages/geometry/README.md) | 25 Weeks | 8 hours/week | Algebra 1 | [Final Test Part 1](https://www.youtube.com/watch?v=84e6AVgYYNk&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=47&t=2s&pp=iAQB), [Part 2](https://www.youtube.com/watch?v=3Aaahyp1Lh8&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=49&pp=iAQB0gcJCTgDd0p55Nqk)
 [Algebra 2](/coursepages/algebra-2/README.md) | 28 Weeks | 8 hours/week | Algebra 1, Geometry | [Final Test](https://www.youtube.com/watch?v=IQYKm-0KaOE&list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ&index=55&pp=iAQB)
-[Trigonometry](/coursepages/trigonometry/README.md) | 18 Weeks | 8 hours/week | Algebra 2 | [Final Test](https://www.youtube.com/watch?v=2vNzGXrgbdQ&list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc&index=35&pp=iAQB)
+[Trigonometry](/coursepages/trigonometry/README.md) | 18 Weeks | 8 hours/week | Algebra 2, Geometry | [Final Test](https://www.youtube.com/watch?v=2vNzGXrgbdQ&list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc&index=35&pp=iAQB)
 [Precalculus](/coursepages/precalculus/README.md) | 26 Weeks | 9 hours/week | Trigonometry | [Final Test Part 1](https://www.youtube.com/watch?v=OY63IBm5RpI&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=45&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=aY7qINRAOvU&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=47&pp=iAQB)
 
 
-When watching the lectures it is important that you pause before each question and work it out yourself, or try again after you understand the process.
+When going through the playlists, it's important to pause the video and complete most of the problems yourself. You don't have to complete all the problems since a few are used to demonstrate the solving technique, but try to complete as many as possible.
 Practice what you have not mastered by:
 1. Googling and/or searching [YouTube](https://www.youtube.com/) for another POV on the topic or more practice problems, working through the examples with them. [Khan Academy](https://www.youtube.com/@khanacademy), [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor), & [Professor Leonard](https://www.youtube.com/@ProfessorLeonard) are great resources for this.
-2. Asking for help in the relevant [Discord channel](https://discord.com/channels/744385009028431943/744971809056751687).
+2. Asking for help in #prerequisite-math on [Discord](https://discord.gg/mS4GnBCdZk).
 
 ## Congratulations
 

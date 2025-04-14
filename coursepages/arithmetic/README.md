@@ -36,4 +36,4 @@ This course was created by [The College Prep School](https://www.youtube.com/@th
 
 ## Notes:
 
-- Class 5: A useful website to help you memorize your addition & multiplication facts is [XtraMath](https://home.xtramath.org/)
+- [Class 5 - Memorizing Products](https://youtu.be/i219Ow_BZTI): A useful website to help you memorize your addition & multiplication facts is [XtraMath](https://home.xtramath.org/).

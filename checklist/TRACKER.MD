@@ -8,6 +8,7 @@ To mark a task as completed, just add x character between the braces.
 
 <details>
 <summary>Arithmetic (click to open the list)</summary>
+
 [Course page](http://https://github.com/ossu/precollege-math/blob/main/coursepages/arithmetic/README.md "Course page")
 
 - [ ] Arithmetic Course--Class 1: An Introduction, Course Content, and Staying Organized
@@ -54,7 +55,9 @@ To mark a task as completed, just add x character between the braces.
 
 <details>
 <summary>Pre-algebra (click to open the list)</summary>
+
 [Course link](http://https://github.com/ossu/precollege-math/blob/main/coursepages/pre-algebra/README.md "Course link")
+
 - [ ] Pre-Algebra Course--Class 1: An Introduction, Staying Organized, and Course Content
 - [ ] Pre-Algebra Course--Class 2: Negative Numbers-
 - [ ] Pre-Algebra Course--Class 3: Negative Fractions--

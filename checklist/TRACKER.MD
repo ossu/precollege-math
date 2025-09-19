@@ -1,7 +1,7 @@
 # Tracker of the Math Courses
 
-Please use this page to track the progress of your studies.
-To mark a task as completed, just add x character between the braces.
+Please use this page to track the progress of your math studies.
+To mark a lesson as completed, just put x character between the square brackets in the following checklists.
 
 - [x] Example of completed task
 
